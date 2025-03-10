@@ -1,0 +1,5 @@
+flask
+flasgger
+confluent_kafka
+psycopg[binary]
+python-keycloak
